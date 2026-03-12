@@ -1,0 +1,39 @@
+{
+  "name": "McKinsey Supply Chain Theme",
+  "dataColors": [
+    "#003A8F",
+    "#4C78A8",
+    "#2CB1A1",
+    "#F5A623",
+    "#E15759",
+    "#6B6E70"
+  ],
+  "background": "#F7F8FA",
+  "foreground": "#333333",
+  "tableAccent": "#003A8F",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": "#333333",
+            "fontSize": 14
+          }
+        ],
+        "labels": [
+          {
+            "color": "#333333",
+            "fontSize": 12
+          }
+        ],
+        "background": [
+          {
+            "color": "#FFFFFF",
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
